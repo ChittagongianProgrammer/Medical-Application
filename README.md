@@ -1,5 +1,5 @@
 # Medical-Application
-Building a small database to hold details of fake medical surgery patients
+Building a small database to hold details of fake medical surgery patients in MySQL
 
 ## Database Functions
 * Shows the names of patients that do not live in Lichfield 
@@ -11,3 +11,4 @@ Building a small database to hold details of fake medical surgery patients
 * Show the names of patients with a budget greater than the average for surgery 243 patients only
 * Show the names of patients with a budget allocation greater than any patients attending surgery 231
 * Show the patients with an above average budget allocation in alphabetical order
+
